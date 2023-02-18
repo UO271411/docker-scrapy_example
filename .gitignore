@@ -1,0 +1,22 @@
+# Python bytecode
+__pycache__/
+*.pyc
+
+# Scrapy cache
+.scrapy/
+
+# Log files
+logs/
+
+# Configuration files
+# settings.py
+
+# Data files
+*.csv
+*.json
+
+# Other files
+.DS_Store
+.env
+.idea/
+venv/
